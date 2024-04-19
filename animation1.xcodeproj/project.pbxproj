@@ -16,6 +16,7 @@
 		C7A95FEB2BBE67A00046C0AE /* animation1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A95FEA2BBE67A00046C0AE /* animation1Tests.swift */; };
 		C7A95FF52BBE67A00046C0AE /* animation1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A95FF42BBE67A00046C0AE /* animation1UITests.swift */; };
 		C7A95FF72BBE67A00046C0AE /* animation1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A95FF62BBE67A00046C0AE /* animation1UITestsLaunchTests.swift */; };
+		C7AFCAB72BD2804900482E39 /* FbViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AFCAB62BD2804900482E39 /* FbViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C7A95FF02BBE67A00046C0AE /* animation1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = animation1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7A95FF42BBE67A00046C0AE /* animation1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animation1UITests.swift; sourceTree = "<group>"; };
 		C7A95FF62BBE67A00046C0AE /* animation1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animation1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C7AFCAB62BD2804900482E39 /* FbViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FbViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				C7A95FD52BBE679F0046C0AE /* SceneDelegate.swift */,
 				C7A95FD72BBE679F0046C0AE /* ViewController.swift */,
 				C7A95FD92BBE679F0046C0AE /* Main.storyboard */,
+				C7AFCAB62BD2804900482E39 /* FbViewController.swift */,
 				C7A95FDC2BBE67A00046C0AE /* Assets.xcassets */,
 				C7A95FDE2BBE67A00046C0AE /* LaunchScreen.storyboard */,
 				C7A95FE12BBE67A00046C0AE /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7AFCAB72BD2804900482E39 /* FbViewController.swift in Sources */,
 				C7A95FD82BBE679F0046C0AE /* ViewController.swift in Sources */,
 				C7A95FD42BBE679F0046C0AE /* AppDelegate.swift in Sources */,
 				C7A95FD62BBE679F0046C0AE /* SceneDelegate.swift in Sources */,

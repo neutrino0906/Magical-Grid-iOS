@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+//        view.backgroundColor = .white
         let width = view.frame.width / CGFloat(numberOfCellsPerRow)
         let numberOfColumns = view.frame.height / width
         
